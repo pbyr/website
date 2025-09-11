@@ -25,7 +25,7 @@ abstract: "A successful energy transition requires the reallocation of private c
 featured: true
 
 tags: 
-- British Journal of Political Science
+- Political Science Research & Methods
 
 # links:
 # - name: ""
