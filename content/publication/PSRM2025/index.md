@@ -1,5 +1,5 @@
 ---
-title: "Energy Transition, Financial Markets and EU Interventionism: Evidence from the Ukraine Crisis"
+title: "Energy Transition, Financial Markets and EU Interventionism: Lessons from the Ukraine Crisis"
 
 authors:
 - admin
