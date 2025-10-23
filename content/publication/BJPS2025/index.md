@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*British Journal of Political Science*"
+publication: "*British Journal of Political Science* 55: e132"
 
 abstract: "This paper investigates the conditions under which subnational concerns shape public assessments of international climate governance. In line with existing literature, we maintain that costly policy adjustments fuel negative views of international cooperation in policy exposed regions. At the same time, we argue that the more resentful relations are with the national center of politics, the more sympathetic these regions are to international institutions and global governance. Based on geographically targeted survey data from the United Kingdom, we find that fossil fuel-intensive regions with strong, institutionalized regional politics have more positive assessments of international climate cooperation than structurally similar regions where regional political institutions are less pronounced. The findings show that regional politics characteristics are key for understanding climate policy beliefs among citizens that bear the brunt of adjustments to international climate agreements."
 
@@ -27,8 +27,8 @@ tags:
 
 # links:
 # - name: ""
-#   url: ""
-#url_pdf: https://osf.io/5k8wy/ 
+#url: ""
+url_pdf: https://www.cambridge.org/core/journals/british-journal-of-political-science/article/climate-policy-costs-regional-politics-and-backlash-against-international-cooperation/09D93B1C28CE7D5EFCAA2918240D3301
 #url_code: 
 url_dataset: https://doi.org/10.7910/DVN/PAXCRR
 #url_poster: ''
