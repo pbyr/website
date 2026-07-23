@@ -32,7 +32,7 @@ tags:
 #   url: ""
 url_pdf: https://www.cambridge.org/core/journals/political-science-research-and-methods/article/energy-transition-financial-markets-and-eu-interventionism-lessons-from-the-ukraine-crisis/34F849B30078683C2319D34CC5DE712C
 #url_code: 
-url_dataset: https://doi.org/10.7910/DVN/PAXCRR
+url_dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJSW9U
 #url_poster: ''
 #url_project: ''
 #url_slides: ''

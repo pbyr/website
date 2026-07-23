@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Selected Publications
+      title: Recent Publications
       count: 6
       filters:
         folders:
