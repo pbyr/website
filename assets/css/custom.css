@@ -22,7 +22,7 @@ border-radius: initial !important;
 /* adjusts logo sizing*/
 
 .navbar-brand svg {
-  height: 60px;
+  height: 72px;
   width: auto;
   max-width: 100%;
 }
