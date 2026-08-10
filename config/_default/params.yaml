@@ -44,7 +44,7 @@ header:
     logo:
       # Logo text
      text: ""
-     filename: "logo.svg"
+     filename: "logo.jpg"
 
 # Site footer
 footer:
