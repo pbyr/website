@@ -10,7 +10,7 @@ authors:
 
 author_notes:
 date: "2026-08-17"
-doi: ""
+doi: "https://doi.org/10.1371/journal.pclm.0001057"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PLOS Climate*"
+publication: "*PLOS Climate 5(9): e0001057*"
 
 abstract: "We introduce a text-as-data approach from natural language processing that allows mapping and quantifying \emph{topic-level} variation in engagement levels of member governments in intergovernmental meetings. Building on research that characterizes the Intergovernmental Panel on Climate Change (IPCC) approval process as a key site for legitimating knowledge input into negotiations under the United Nations Framework Convention on Climate Change (UNFCCC), we illustrate this method for two key topics from the IPCC's Sixth Assessment Report (AR6) that became identified policy approaches for national mitigation and adaptation plans in the negotiated Global Stocktake outcome of COP28: carbon management and nature-based solutions. Our analysis provides robust evidence that governments' engagement levels vary by topic, which allows us to nuance existing findings that IPCC meetings are dominated by a few large country delegations across all agenda items. Our proposed method can be applied to other intergovernmental meetings and complements qualitative research methods."
 
@@ -30,7 +30,7 @@ tags:
 # links:
 # - name: ""
 #url: ""
-url_pdf: 
+url_pdf: https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001057
 #url_code: 
 url_dataset: https://doi.org/10.7910/DVN/ISM78R
 #url_poster: ''
